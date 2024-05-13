@@ -125,6 +125,7 @@ C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\obj\Debug\net8.0\API.As
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\obj\Debug\net8.0\API.sourcelink.json
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props

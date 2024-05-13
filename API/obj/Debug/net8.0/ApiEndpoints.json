@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "Infrastructure.Controllers.ProductsController",
+    "ContainingType": "API.Controllers.ProductsController",
     "Method": "GetProducts",
     "RelativePath": "api/Products",
     "HttpMethod": "GET",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "ContainingType": "Infrastructure.Controllers.ProductsController",
+    "ContainingType": "API.Controllers.ProductsController",
     "Method": "GetProduct",
     "RelativePath": "api/Products/{id}",
     "HttpMethod": "GET",
@@ -36,6 +36,46 @@
     "ReturnTypes": [
       {
         "Type": "Core.Entities.Product",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "API.Controllers.ProductsController",
+    "Method": "GetProductBrands",
+    "RelativePath": "api/Products/brands",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IReadOnlyList\u00601[[Core.Entities.ProductBrand, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "API.Controllers.ProductsController",
+    "Method": "GetProductTypes",
+    "RelativePath": "api/Products/types",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IReadOnlyList\u00601[[Core.Entities.ProductType, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

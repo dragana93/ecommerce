@@ -12,7 +12,6 @@
           "Microsoft.AspNetCore.OpenApi": "8.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.0",
           "Microsoft.EntityFrameworkCore.Design": "8.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {

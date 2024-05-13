@@ -5,6 +5,7 @@ C:\Users\DraganaSavanovic\source\repos\ecommerce\API\Core\obj\Debug\net8.0\Core.
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\DraganaSavanovic\source\repos\ecommerce\API\Core\obj\Debug\net8.0\Core.sourcelink.json
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\Core\obj\Debug\net8.0\Core.dll
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\Core\obj\Debug\net8.0\refint\Core.dll
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\Core\obj\Debug\net8.0\Core.pdb
