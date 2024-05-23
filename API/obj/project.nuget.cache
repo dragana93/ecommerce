@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0DjTtNiLWm8gLitB25DE9ao+MdHjFSbzmZ0A2FKztwawIDRykG3b8RAJApNmpU4qBmilU0P1ONGZ3yxYUEfHMQ==",
+  "dgSpecHash": "z2uXfEBVvKkYq3StUC+TyJhSKnJRRIq/NOGCzSOg7otC3AF+GeIDqxQSRyXLR6Ayd8XvUxMjnBS6b5+qj2MrFQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\DraganaSavanovic\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\DraganaSavanovic\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\DraganaSavanovic\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\DraganaSavanovic\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
