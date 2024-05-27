@@ -4487,6 +4487,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "AutoMapper >= 13.0.1",
+      "Core >= 1.0.0",
       "Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 8.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.0",
@@ -4529,6 +4530,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Core.csproj"
+            },
             "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Infrastructure\\Infrastructure.csproj": {
               "projectPath": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Infrastructure\\Infrastructure.csproj"
             }

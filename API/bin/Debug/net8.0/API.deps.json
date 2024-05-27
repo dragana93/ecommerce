@@ -9,6 +9,7 @@
       "API/1.0.0": {
         "dependencies": {
           "AutoMapper": "13.0.1",
+          "Core": "1.0.0",
           "Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "8.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.0",

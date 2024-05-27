@@ -1,10 +1,12 @@
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\appsettings.json
+C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\API.staticwebassets.runtime.json
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\API.exe
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\API.deps.json
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\API.runtimeconfig.json
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\API.dll
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\API.pdb
+C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Humanizer.dll
@@ -116,8 +118,8 @@ C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\runtim
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Core.dll
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Infrastructure.dll
-C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Infrastructure.pdb
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Core.pdb
+C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Infrastructure.pdb
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
@@ -140,5 +142,3 @@ C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\obj\Debug\net8.0\refint
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\obj\Debug\net8.0\API.pdb
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\obj\Debug\net8.0\ref\API.dll
-C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\AutoMapper.dll
-C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\API.staticwebassets.runtime.json
