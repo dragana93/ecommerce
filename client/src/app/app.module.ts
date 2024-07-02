@@ -8,11 +8,11 @@ import { CoreModule } from './core/core.module';
 import { SharedModule } from './shared/shared.module';
 import { HomeModule } from './home/home.module';
 import { ErrorInterceptor } from './interceptors/error.interceptor';
+import { LoadingInterceptor } from './interceptors/loading.interceptor';
+import { NgxSpinnerModule } from "ngx-spinner";
 
 @NgModule({
-  declarations: [
-    AppComponent,
-  ],
+  declarations: [AppComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
@@ -21,12 +21,13 @@ import { ErrorInterceptor } from './interceptors/error.interceptor';
     CoreModule,
     SharedModule,
     HomeModule,
-
+    NgxSpinnerModule,
     
   ],
   providers: [
-    {provide: HTTP_INTERCEPTORS, useClass: ErrorInterceptor, multi: true}
+    { provide: HTTP_INTERCEPTORS, useClass: ErrorInterceptor, multi: true },
+    { provide: HTTP_INTERCEPTORS, useClass: LoadingInterceptor, multi: true },
   ],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}

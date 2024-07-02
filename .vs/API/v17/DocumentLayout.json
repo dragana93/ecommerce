@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -77,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\errors\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\errors\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -126,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,7 +134,92 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:11:45.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductSpecParams.cs",
+              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Specifications\\ProductSpecParams.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\ProductSpecParams.cs",
+              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Specifications\\ProductSpecParams.cs",
+              "RelativeToolTip": "Core\\Specifications\\ProductSpecParams.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA/wCEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:54:04.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T06:11:31.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductWithFiltersForCountSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Specifications\\ProductWithFiltersForCountSpecification.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\ProductWithFiltersForCountSpecification.cs",
+              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Specifications\\ProductWithFiltersForCountSpecification.cs",
+              "RelativeToolTip": "Core\\Specifications\\ProductWithFiltersForCountSpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:42:24.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuggyController.cs",
+              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Controllers\\BuggyController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BuggyController.cs",
+              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Controllers\\BuggyController.cs",
+              "RelativeToolTip": "API\\Controllers\\BuggyController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:16:15.17Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwBcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:18:09.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsWithTypesAndBrandsSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Specifications\\ProductsWithTypesAndBrandsSpecification.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\ProductsWithTypesAndBrandsSpecification.cs",
+              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Specifications\\ProductsWithTypesAndBrandsSpecification.cs",
+              "RelativeToolTip": "Core\\Specifications\\ProductsWithTypesAndBrandsSpecification.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAC8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:40:05.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
@@ -142,24 +227,11 @@
               "RelativeToolTip": "API\\Program.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T13:10:46.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T13:10:46.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationServiceExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Extensions\\ApplicationServiceExtensions.cs",
-              "RelativeDocumentMoniker": "API\\Extensions\\ApplicationServiceExtensions.cs",
-              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Extensions\\ApplicationServiceExtensions.cs",
-              "RelativeToolTip": "API\\Extensions\\ApplicationServiceExtensions.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAACkAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T12:26:21.74Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "BaseSpecification.cs",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Specifications\\BaseSpecification.cs",
               "RelativeDocumentMoniker": "Core\\Specifications\\BaseSpecification.cs",
@@ -172,66 +244,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductsWithTypesAndBrandsSpecification.cs",
-              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Specifications\\ProductsWithTypesAndBrandsSpecification.cs",
-              "RelativeDocumentMoniker": "Core\\Specifications\\ProductsWithTypesAndBrandsSpecification.cs",
-              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Specifications\\ProductsWithTypesAndBrandsSpecification.cs",
-              "RelativeToolTip": "Core\\Specifications\\ProductsWithTypesAndBrandsSpecification.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAC8AAAA",
+              "Title": "ApplicationServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeDocumentMoniker": "API\\Extensions\\ApplicationServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeToolTip": "API\\Extensions\\ApplicationServiceExtensions.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T08:40:05.127Z"
+              "WhenOpened": "2024-05-24T12:26:21.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Core\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "Core\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:11:45.479Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductSpecParams.cs",
-              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Specifications\\ProductSpecParams.cs",
-              "RelativeDocumentMoniker": "Core\\Specifications\\ProductSpecParams.cs",
-              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Specifications\\ProductSpecParams.cs",
-              "RelativeToolTip": "Core\\Specifications\\ProductSpecParams.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAA/wCEAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T09:54:04.744Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAwB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T06:11:31.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductWithFiltersForCountSpecification.cs",
-              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Specifications\\ProductWithFiltersForCountSpecification.cs",
-              "RelativeDocumentMoniker": "Core\\Specifications\\ProductWithFiltersForCountSpecification.cs",
-              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Specifications\\ProductWithFiltersForCountSpecification.cs",
-              "RelativeToolTip": "Core\\Specifications\\ProductWithFiltersForCountSpecification.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T10:42:24.105Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "SpecificationEvaluator.cs",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Infrastructure\\Data\\SpecificationEvaluator.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\SpecificationEvaluator.cs",
@@ -243,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Pagination.cs",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Helpers\\Pagination.cs",
               "RelativeDocumentMoniker": "API\\Helpers\\Pagination.cs",
@@ -255,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Infrastructure\\Data\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\GenericRepository.cs",
@@ -279,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ApiValidationErrorResponse.cs",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Errors\\ApiValidationErrorResponse.cs",
               "RelativeDocumentMoniker": "API\\Errors\\ApiValidationErrorResponse.cs",
@@ -291,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ISpecification.cs",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Interfaces\\ISpecification.cs",
               "RelativeDocumentMoniker": "Core\\Interfaces\\ISpecification.cs",
@@ -303,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ErrorController.cs",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Controllers\\ErrorController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\ErrorController.cs",
@@ -327,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "BaseApiControler.cs",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Controllers\\BaseApiControler.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\BaseApiControler.cs",
@@ -336,18 +360,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T11:47:23.356Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BuggyController.cs",
-              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Controllers\\BuggyController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\BuggyController.cs",
-              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Controllers\\BuggyController.cs",
-              "RelativeToolTip": "API\\Controllers\\BuggyController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T12:16:15.17Z"
             },
             {
               "$type": "Document",
@@ -375,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\WeatherForecastController.cs",
@@ -387,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Errors\\ApiResponse.cs",
               "RelativeDocumentMoniker": "API\\Errors\\ApiResponse.cs",
@@ -411,18 +423,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "API\\Middleware\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "API\\Middleware\\ExceptionMiddleware.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T07:18:09.469Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 20,
               "Title": "API.csproj",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\API.csproj",
@@ -435,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "API\\appsettings.Development.json",
