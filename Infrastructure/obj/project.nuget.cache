@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GQKzIoBoSEz7gtXpyCyxvDwUxCaPlQzshN6Ywkw6KgozM2/9iRwDqFp6n3QLiJOuvjvz6NYeniq0NjvdSamrIA==",
+  "dgSpecHash": "iBgBK7dTpq4qYJd7l1Ux4iEn1zu+74luueKkpNq+5wCLpnggspc3q664Lix7C+A6KKCO1cU1bViRISX7L00Ucg==",
   "success": true,
   "projectFilePath": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -45,6 +45,8 @@
     "C:\\Users\\DraganaSavanovic\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\DraganaSavanovic\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\DraganaSavanovic\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\DraganaSavanovic\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\DraganaSavanovic\\.nuget\\packages\\stackexchange.redis\\2.8.0\\stackexchange.redis.2.8.0.nupkg.sha512",
     "C:\\Users\\DraganaSavanovic\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\DraganaSavanovic\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\DraganaSavanovic\\.nuget\\packages\\system.composition\\6.0.0\\system.composition.6.0.0.nupkg.sha512",

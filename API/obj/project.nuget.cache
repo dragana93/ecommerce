@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "X4xb5kzB6xd22Try3CyzHfacYhc2ICpL+fnspSwFBl6z9f5b/OP6V2TzJF2HoRWkn+Rplfk5GvSfxcDgFYt9FQ==",
+  "dgSpecHash": "E1ggr2B/+atAEoRjnCDX3eDeHDplek6NDefG08O5G4OVjDbHs6tN7L9k9UAcqU+0YaZVE1pli2Y5v1NpCFOVIA==",
   "success": true,
   "projectFilePath": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -49,6 +49,8 @@
     "C:\\Users\\DraganaSavanovic\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\DraganaSavanovic\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\DraganaSavanovic\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\DraganaSavanovic\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\DraganaSavanovic\\.nuget\\packages\\stackexchange.redis\\2.8.0\\stackexchange.redis.2.8.0.nupkg.sha512",
     "C:\\Users\\DraganaSavanovic\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\DraganaSavanovic\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\DraganaSavanovic\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
