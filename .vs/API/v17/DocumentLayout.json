@@ -168,7 +168,7 @@
               "RelativeDocumentMoniker": "API\\Controllers\\BasketController.cs",
               "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Controllers\\BasketController.cs",
               "RelativeToolTip": "API\\Controllers\\BasketController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAvwCAAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T13:06:25.663Z",
               "EditorCaption": ""
@@ -183,8 +183,7 @@
               "RelativeToolTip": "Infrastructure\\Data\\BasketRepository.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAAABcAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T06:37:20.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T06:37:20.769Z"
             },
             {
               "$type": "Document",
