@@ -179,7 +179,7 @@
     "Parameters": [
       {
         "Name": "basket",
-        "Type": "Core.Entities.CustomerBasket",
+        "Type": "API.Dtos.CustomerBasketDto",
         "IsRequired": true
       }
     ],

@@ -3,24 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\extensions\\swaggerserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\extensions\\swaggerserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\dtos\\customerbasketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\dtos\\customerbasketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\extensions\\usermanagerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\extensions\\usermanagerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\dtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\dtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4129D4BA-4B70-417E-B8A6-8871DD8A414A}|Core\\Core.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\core\\entities\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4129D4BA-4B70-417E-B8A6-8871DD8A414A}|Core\\Core.csproj|solutionrelative:core\\entities\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4129D4BA-4B70-417E-B8A6-8871DD8A414A}|Core\\Core.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4129D4BA-4B70-417E-B8A6-8871DD8A414A}|Core\\Core.csproj|solutionrelative:core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\dtos\\producttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\dtos\\producttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4129D4BA-4B70-417E-B8A6-8871DD8A414A}|Core\\Core.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\core\\entities\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4129D4BA-4B70-417E-B8A6-8871DD8A414A}|Core\\Core.csproj|solutionrelative:core\\entities\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4129D4BA-4B70-417E-B8A6-8871DD8A414A}|Core\\Core.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\core\\entities\\identity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4129D4BA-4B70-417E-B8A6-8871DD8A414A}|Core\\Core.csproj|solutionrelative:core\\entities\\identity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\extensions\\usermanagerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\extensions\\usermanagerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\extensions\\identityserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\api\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{172F08BC-CA34-43DD-AB4B-E3078778E3E7}|API\\API.csproj|solutionrelative:api\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9FEEF2EA-5535-40D4-8ACB-65BF53E5E05E}|Infrastructure\\Infrastructure.csproj|c:\\users\\draganasavanovic\\source\\repos\\ecommerce\\api\\infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FEEF2EA-5535-40D4-8ACB-65BF53E5E05E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -54,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,32 +115,175 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:48:03.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwaggerServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Extensions\\SwaggerServiceExtensions.cs",
+              "RelativeDocumentMoniker": "API\\Extensions\\SwaggerServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Extensions\\SwaggerServiceExtensions.cs",
+              "RelativeToolTip": "API\\Extensions\\SwaggerServiceExtensions.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:45:12.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "API\\Controllers\\BasketController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:36:30.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Entities\\BasketItem.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\BasketItem.cs",
+              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Entities\\BasketItem.cs",
+              "RelativeToolTip": "Core\\Entities\\BasketItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:30:23.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Entities\\Product.cs",
+              "RelativeToolTip": "Core\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:30:14.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductToReturnDto.cs",
+              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Dtos\\ProductToReturnDto.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\ProductToReturnDto.cs",
+              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Dtos\\ProductToReturnDto.cs",
+              "RelativeToolTip": "API\\Dtos\\ProductToReturnDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:27:50.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasketItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Dtos\\BasketItemDto.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\BasketItemDto.cs",
+              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Dtos\\BasketItemDto.cs",
+              "RelativeToolTip": "API\\Dtos\\BasketItemDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:27:40.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerBasket.cs",
+              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Entities\\CustomerBasket.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\CustomerBasket.cs",
+              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Entities\\CustomerBasket.cs",
+              "RelativeToolTip": "Core\\Entities\\CustomerBasket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:26:23.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerBasketDto.cs",
+              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Dtos\\CustomerBasketDto.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\CustomerBasketDto.cs",
+              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Dtos\\CustomerBasketDto.cs",
+              "RelativeToolTip": "API\\Dtos\\CustomerBasketDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:25:32.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "API\\Dtos\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:59:14.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "API\\Dtos\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAADuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:45:56.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MappingProfiles.cs",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Helpers\\MappingProfiles.cs",
               "RelativeDocumentMoniker": "API\\Helpers\\MappingProfiles.cs",
               "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Helpers\\MappingProfiles.cs",
               "RelativeToolTip": "API\\Helpers\\MappingProfiles.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T07:36:35.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "AddressDto.cs",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Dtos\\AddressDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\AddressDto.cs",
               "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Dtos\\AddressDto.cs",
               "RelativeToolTip": "API\\Dtos\\AddressDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T07:36:22.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Core\\Entities\\Identity\\Address.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\Identity\\Address.cs",
@@ -109,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "UserManagerExtensions.cs",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Extensions\\UserManagerExtensions.cs",
               "RelativeDocumentMoniker": "API\\Extensions\\UserManagerExtensions.cs",
@@ -117,12 +304,11 @@
               "RelativeToolTip": "API\\Extensions\\UserManagerExtensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T06:56:47.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T06:56:47.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "BuggyController.cs",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Controllers\\BuggyController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\BuggyController.cs",
@@ -134,32 +320,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "ApplicationServiceExtensions.cs",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Extensions\\ApplicationServiceExtensions.cs",
               "RelativeDocumentMoniker": "API\\Extensions\\ApplicationServiceExtensions.cs",
               "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Extensions\\ApplicationServiceExtensions.cs",
               "RelativeToolTip": "API\\Extensions\\ApplicationServiceExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA+AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBAAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T19:23:20.115Z"
+              "WhenOpened": "2024-07-22T19:23:20.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Controllers\\AccountController.cs",
               "RelativeToolTip": "API\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAAAEkAAAA4AAAA",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAAGkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T19:23:02.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\appsettings.json",
               "RelativeDocumentMoniker": "API\\appsettings.json",
@@ -171,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\Infrastructure\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\TokenService.cs",
@@ -183,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "API\\appsettings.Development.json",
@@ -195,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "IdentityServiceExtensions.cs",
               "DocumentMoniker": "C:\\Users\\DraganaSavanovic\\source\\repos\\ecommerce\\API\\API\\Extensions\\IdentityServiceExtensions.cs",
               "RelativeDocumentMoniker": "API\\Extensions\\IdentityServiceExtensions.cs",
