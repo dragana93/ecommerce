@@ -7,13 +7,40 @@
         <a class="p-2" routerLink="/test-error" routerLinkActive="active">Errors</a>
     </nav>
     <div class="d-flex align-items-center">
-        <a routerLink="/basket" class="position-relative mr-3" >
+        <a routerLink="/basket" class="position-relative mr-3">
             <i class="fa fa-shopping-cart fa-2x me-5 text-dark"></i>
             <div *ngIf="(basketService.basketSource$ | async) as basket" class="cart-no">
                 {{this.getCount(basket.items)}}
             </div>
         </a>
-        <a href="" class="btn btn-outline-secondary m-1"> Login </a>
-        <a href="" class="btn btn-outline-secondary m-1"> Sign up</a>
+
+        <ng-container *ngIf="(this.accountService.currentUser$ | async) === null">
+            <a href="/account/login" class="btn btn-outline-secondary m-1"> Login </a>
+            <a href="/account/register" class="btn btn-outline-secondary m-1"> Sign up</a>
+        </ng-container>
+
+        <ng-container *ngIf="(this.accountService.currentUser$ | async) as user">
+            <div class="btn-group" dropdown>
+                <button id="button-animated" dropdownToggle type="button" class="btn btn-primary dropdown-toggle"
+                    aria-controls="dropdown-animated">
+                    Welcome {{user.displayName}} <span class="caret"></span>
+                </button>
+                <ul id="dropdown-animated" *dropdownMenu class="dropdown-menu" role="menu" aria-labelledby="button-animated">
+                    <li role="menuitem">
+                        <a routerLink="/basket" class="dropdown-item">
+                            <i class="fa fa-shopping-cart me-3"> View basket </i>
+                        </a>
+                    </li>
+                    <li role="menuitem"><a routerLink="/orders" class="dropdown-item">
+                            <i class="fa fa-history me-3"> View orders </i> </a>
+                    </li>
+                    <li role="menuitem">
+                        <a (click)="this.accountService.logout()" class="dropdown-item">
+                            <i class="fa fa-gign-out me-3"> Logout </i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </ng-container>
     </div>
 </header>

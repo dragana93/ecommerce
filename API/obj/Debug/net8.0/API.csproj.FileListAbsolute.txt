@@ -10,6 +10,8 @@ C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\AutoMa
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -35,6 +37,8 @@ C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Micros
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\StackExchange.Redis.dll
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -142,7 +146,3 @@ C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\obj\Debug\net8.0\refint
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\obj\Debug\net8.0\API.pdb
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\obj\Debug\net8.0\ref\API.dll
-C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
-C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\StackExchange.Redis.dll
-C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\DraganaSavanovic\source\repos\ecommerce\API\API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

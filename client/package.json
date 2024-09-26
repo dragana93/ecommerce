@@ -23,6 +23,7 @@
     "cuid": "^3.0.0",
     "font-awesome": "^4.7.0",
     "ngx-bootstrap": "^7.1.2",
+    "ngx-dropdown": "0.0.22",
     "ngx-spinner": "^12.0.0",
     "ngx-toastr": "^14.3.0",
     "rxjs": "~6.6.0",

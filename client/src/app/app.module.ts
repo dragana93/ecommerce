@@ -10,10 +10,13 @@ import { HomeModule } from './home/home.module';
 import { ErrorInterceptor } from './interceptors/error.interceptor';
 import { LoadingInterceptor } from './interceptors/loading.interceptor';
 import { NgxSpinnerModule } from "ngx-spinner";
+import { CommonModule } from '@angular/common';
+
 
 @NgModule({
   declarations: [AppComponent],
   imports: [
+    CommonModule,
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
@@ -22,7 +25,6 @@ import { NgxSpinnerModule } from "ngx-spinner";
     SharedModule,
     HomeModule,
     NgxSpinnerModule,
-    
   ],
   providers: [
     { provide: HTTP_INTERCEPTORS, useClass: ErrorInterceptor, multi: true },
