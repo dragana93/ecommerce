@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
+import { Order } from 'src/app/shared/models/order';
 
 @Component({
   selector: 'app-checkout-success',
@@ -7,7 +9,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CheckoutSuccessComponent implements OnInit {
 
-  constructor() { }
+  order?: Order;
+
+  constructor(private router: Router) { 
+    const navigation = this.router.getCurrentNavigation();
+    this.order = navigation?.extras?.state as Order
+  }
 
   ngOnInit(): void {
   }

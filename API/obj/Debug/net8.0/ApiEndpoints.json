@@ -406,6 +406,32 @@
     ]
   },
   {
+    "ContainingType": "API.Controllers.PaymentController",
+    "Method": "CreateOrUpdatePaymentIntent",
+    "RelativePath": "api/Payment/{basketId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "basketId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Core.Entities.CustomerBasket",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "API.Controllers.ProductsController",
     "Method": "GetProducts",
     "RelativePath": "api/Products",
